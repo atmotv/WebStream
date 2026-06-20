@@ -73,4 +73,8 @@ WebStream is independently created, developed, and maintained by **Prixma**.
 
 ## The Content ##
 
-All our content can be downloaded, the video you download contains Copyright Watermark for secure the content
+All our content can be downloaded, the video you download contains Copyright Watermark to provide the content to not be fully copied
+
+## Site Now
+
+The website content is in the other brunch of this project. The site is currently unusable
