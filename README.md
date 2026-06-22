@@ -24,3 +24,8 @@ In a world where school is begin ended
   <sub>Created by: Bonsai 
    |  Subtitles by: Prixmatic Sub</sub>
 </p>
+
+
+## How do I play the content in v2.0? ##
+
+Is simple, you can use service (ex. Stremio, or Kodi), you add our content by the url, and you can see all our originals content!
